@@ -3,6 +3,7 @@
   <b>An Integrated Cyber-Physical Ecosystem for Autonomous Driving Research and Education</b>
 </p>
 
+![Github Views](https://komarev.com/ghpvc/?username=AutoDRIVE-Ecosystem&label=views&icon=github)
 ![Github Stars](https://badgen.net/github/stars/Tinker-Twins/AutoDRIVE?icon=github&label=stars)
 ![Github Forks](https://badgen.net/github/forks/Tinker-Twins/AutoDRIVE?icon=github&label=forks)
 ![Github Downloads](https://img.shields.io/github/downloads/Tinker-Twins/AutoDRIVE/total?color=blue&label=downloads&logo=github&logoColor=white)
