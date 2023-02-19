@@ -91,8 +91,8 @@ We encourage you to take a look at the following research projects developed usi
 
 |                    |                     |
 |:------------------:|:-------------------:|
-| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Autonomous-Parking.png" width="500">](https://youtu.be/oBqIZZA0wkc) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Behavioural-Cloning.png" width="500">](https://youtu.be/rejpoogaXOE) |
-| [Autonomous Parking](https://youtu.be/oBqIZZA0wkc) | [Behavioural Cloning](https://youtu.be/rejpoogaXOE) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Autonomous-Parking.png" width="500">](https://youtu.be/piCyvTM2dek) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Behavioural-Cloning.png" width="500">](https://youtu.be/rejpoogaXOE) |
+| [Autonomous Parking](https://youtu.be/piCyvTM2dek) | [Behavioural Cloning](https://youtu.be/rejpoogaXOE) |
 | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Intersection-Traversal.png" width="500">](https://youtu.be/AEFJbDzOpcM) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Smart-City-Management.png" width="500">](https://youtu.be/fnxOpV1gFXo) |
 | [Intersection Traversal](https://youtu.be/AEFJbDzOpcM) | [Smart City Management](https://youtu.be/fnxOpV1gFXo) |
 |                    |                     |
