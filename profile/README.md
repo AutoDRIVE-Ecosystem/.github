@@ -169,7 +169,6 @@ eprint={2307.13272},
 archivePrefix={arXiv},
 primaryClass={cs.RO}
 }
-
 ```
 This work has been accepted at **2023 AACC/IFAC Modeling, Estimation and Control Conference (MECC).**
 
