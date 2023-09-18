@@ -80,17 +80,17 @@ We encourage you to take a look at the following quick highlights to keep up wit
 
 |                    |
 |:------------------:|
-| [<img src="Images/AutoDRIVE-Ecosystem-Pitch-Video.png">](https://youtu.be/t0CgNR_LgrQ) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/AutoDRIVE-Ecosystem-Pitch-Video.png">](https://youtu.be/t0CgNR_LgrQ) |
 | [AutoDRIVE Ecosystem Pitch Video](https://youtu.be/t0CgNR_LgrQ) |
 |                    |
 
 |                    |                     |
 |:------------------:|:-------------------:|
-| [<img src="Images/AutoDRIVE-Simulator-Pitch-Video.png" width="500">](https://youtu.be/i7R79jwnqlg) | [<img src="Images/AutoDRIVE-Testbed-Pitch-Video.png" width="500">](https://youtu.be/YFQzyfXV6Rw) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/AutoDRIVE-Simulator-Pitch-Video.png" width="500">](https://youtu.be/i7R79jwnqlg) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/AutoDRIVE-Testbed-Pitch-Video.png" width="500">](https://youtu.be/YFQzyfXV6Rw) |
 | [AutoDRIVE Simulator Pitch Video](https://youtu.be/i7R79jwnqlg) | [AutoDRIVE Testbed Pitch Video](https://youtu.be/YFQzyfXV6Rw) |
-| [<img src="Images/OpenCAV-in-AutoDRIVE-Simulator.png" width="500">](https://youtu.be/YIZz_8rLgZQ) | [<img src="Images/RZR-in-AutoDRIVE-Simulator.png" width="500">](https://youtu.be/PLW1-sYW6Hw) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/OpenCAV-in-AutoDRIVE-Simulator.png" width="500">](https://youtu.be/YIZz_8rLgZQ) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/RZR-in-AutoDRIVE-Simulator.png" width="500">](https://youtu.be/PLW1-sYW6Hw) |
 | [OpenCAV in AutoDRIVE Simulator](https://youtu.be/YIZz_8rLgZQ) | [RZR in AutoDRIVE Simulator](https://youtu.be/PLW1-sYW6Hw) |
-| [<img src="Images/Nigel-Variability-Testing.png" width="500">](https://youtu.be/KtjZapz0OkE) | [<img src="Images/OpenCAV-Variability-Testing.png" width="500">](https://youtu.be/sW8Ic-XyufM) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Nigel-Variability-Testing.png" width="500">](https://youtu.be/KtjZapz0OkE) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/OpenCAV-Variability-Testing.png" width="500">](https://youtu.be/sW8Ic-XyufM) |
 | [Variability Testing using Nigel](https://youtu.be/KtjZapz0OkE) | [Variability Testing using OpenCAV](https://youtu.be/sW8Ic-XyufM) |
 |                    |                     |
 
@@ -100,9 +100,9 @@ We encourage you to take a look at the following research projects developed usi
 
 |                    |                     |
 |:------------------:|:-------------------:|
-| [<img src="Images/Autonomous-Parking.png" width="500">](https://youtu.be/piCyvTM2dek) | [<img src="Images/Behavioural-Cloning.png" width="500">](https://youtu.be/rejpoogaXOE) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Autonomous-Parking.png" width="500">](https://youtu.be/piCyvTM2dek) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Behavioural-Cloning.png" width="500">](https://youtu.be/rejpoogaXOE) |
 | [Autonomous Parking](https://youtu.be/piCyvTM2dek) | [Behavioural Cloning](https://youtu.be/rejpoogaXOE) |
-| [<img src="Images/Intersection-Traversal.png" width="500">](https://youtu.be/AEFJbDzOpcM) | [<img src="Images/Smart-City-Management.png" width="500">](https://youtu.be/fnxOpV1gFXo) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Intersection-Traversal.png" width="500">](https://youtu.be/AEFJbDzOpcM) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Smart-City-Management.png" width="500">](https://youtu.be/fnxOpV1gFXo) |
 | [Intersection Traversal](https://youtu.be/AEFJbDzOpcM) | [Smart City Management](https://youtu.be/fnxOpV1gFXo) |
 |                    |                     |
 
@@ -112,13 +112,13 @@ We encourage you to take a look at the following presentations to gain a better 
 
 |                    |                     |
 |:------------------:|:-------------------:|
-| [<img src="Images/SRMIST-FYP-Viva-Voce.png" width="500">](https://youtu.be/2FByDOkDxMc) | [<img src="Images/CCRIS-2021-Presentation.png" width="500">](https://youtu.be/whTH6VyVtHE) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/SRMIST-FYP-Viva-Voce.png" width="500">](https://youtu.be/2FByDOkDxMc) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/CCRIS-2021-Presentation.png" width="500">](https://youtu.be/whTH6VyVtHE) |
 | [SRMIST UG Final Year Project Viva Voce](https://youtu.be/2FByDOkDxMc) | [CCRIS 2021 Virtual Presentation](https://youtu.be/whTH6VyVtHE) |
-| [<img src="Images/AutoDRIVE-Technical-Discussion.png" width="500">](https://youtu.be/nV7HuLTjUY4) | [<img src="Images/Autoware-COE-Seminar.png" width="500">](https://youtu.be/WTGOAiRX4b0) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/AutoDRIVE-Technical-Discussion.png" width="500">](https://youtu.be/nV7HuLTjUY4) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Autoware-COE-Seminar.png" width="500">](https://youtu.be/WTGOAiRX4b0) |
 | [AutoDRIVE Technical Discussion @ ARMLab CU-ICAR](https://youtu.be/nV7HuLTjUY4) | [Autoware COE Seminar](https://youtu.be/WTGOAiRX4b0) |
-| [<img src="Images/AIM-2023-Presentation.png" width="500">](https://youtu.be/PV9k3-N_bvc) | [<img src="Images/OpenCAV-Technical-Discussion.png" width="500">](https://youtu.be/xihFoUxU7EU) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/AIM-2023-Presentation.png" width="500">](https://youtu.be/PV9k3-N_bvc) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/OpenCAV-Technical-Discussion.png" width="500">](https://youtu.be/xihFoUxU7EU) |
 | [AIM 2023 Video Presentation](https://youtu.be/PV9k3-N_bvc) | [OpenCAV Technical Discussion @ ARMLab CU-ICAR](https://youtu.be/xihFoUxU7EU) |
-| [<img src="Images/OpenCAV-AuE-Seminar.png" width="500">](https://youtu.be/bk7lJfD4H0s) | [<img src="Images/SMRDC-2023-Presentation.png" width="500">](https://youtu.be/R_GZ1LkMWGQ) |
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/OpenCAV-AuE-Seminar.png" width="500">](https://youtu.be/bk7lJfD4H0s) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/SMRDC-2023-Presentation.png" width="500">](https://youtu.be/R_GZ1LkMWGQ) |
 | [OpenCAV CUICAR AuE Seminar](https://youtu.be/bk7lJfD4H0s) | [SMRDC 2023 Finalist Pitch](https://youtu.be/R_GZ1LkMWGQ) |
 |                    |                     |
 
