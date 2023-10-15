@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/AutoDRIVE-Logo.png" width="256" height="256"><br>
-  <b>An Integrated Cyber-Physical Ecosystem for Autonomous Driving Research and Education</b>
-</p>
+<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/AutoDRIVE-Banner.jpg">
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fautodrive-ecosystem.github.io&count_bg=%23DA4848&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/>
