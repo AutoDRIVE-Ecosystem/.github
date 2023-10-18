@@ -239,3 +239,20 @@ year = {2022},
 copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
+## Team
+
+#### Developers
+
+|                    |                     |
+|:------------------:|:-------------------:|
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Developer-Tanmay-Samak.png" width="125">](https://www.linkedin.com/in/samaktanmay) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Developer-Chinmay-Samak.png" width="125">](https://www.linkedin.com/in/samakchinmay) |
+| [Tanmay Vilas Samak](https://www.linkedin.com/in/samaktanmay) | [Chinmay Vilas Samak](https://www.linkedin.com/in/samakchinmay) |
+|                    |                     |
+
+#### Contributers
+
+|                    |                     |
+|:------------------:|:-------------------:|
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Contributer-Rohit-Ravikumar.png" width="125">](https://www.linkedin.com/in/rohitravikumar-) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Contributer-Parth-Shinde.png" width="125">](https://www.linkedin.com/in/parthshindelink) |
+| [Rohit Ravikumar](https://www.linkedin.com/in/rohitravikumar-) | [Parth Shinde](https://www.linkedin.com/in/parthshindelink) |
+|                    |                     |
