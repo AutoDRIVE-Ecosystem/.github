@@ -256,3 +256,19 @@ copyright = {arXiv.org perpetual, non-exclusive license}
 | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Contributer-Rohit-Ravikumar.png" width="125">](https://www.linkedin.com/in/rohitravikumar-) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Contributer-Parth-Shinde.png" width="125">](https://www.linkedin.com/in/parthshindelink) |
 | [Rohit Ravikumar](https://www.linkedin.com/in/rohitravikumar-) | [Parth Shinde](https://www.linkedin.com/in/parthshindelink) |
 |                    |                     |
+
+#### Mentors
+
+|                    |                     |                     |
+|:------------------:|:-------------------:|:-------------------:|
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Mentor-Venkat-Krovi.png" width="125">](https://www.linkedin.com/in/venkatnkrovi) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Mentor-Sivanathan-Kandhasamy.png" width="125">](https://www.linkedin.com/in/dr-sivanathan-kandhasamy-a4703966) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Mentor-Ming-Xie.png" width="125">](https://www.linkedin.com/in/ming-xie-800a4aa1) |
+| [Dr. Venkat Krovi](https://www.linkedin.com/in/venkatnkrovi) | [Dr. Sivanathan Kandhasamy](https://www.linkedin.com/in/dr-sivanathan-kandhasamy-a4703966) | [Dr. Ming Xie](https://www.linkedin.com/in/ming-xie-800a4aa1) |
+|                    |                     |                     |
+
+#### Institutions
+
+|                    |                     |                     |
+|:------------------:|:-------------------:|:-------------------:|
+| [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Institution-CUICAR.png" width="250">](https://cuicar.com) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Institution-SRMIST.png" width="250">](https://www.srmist.edu.in/) | [<img src="https://github.com/AutoDRIVE-Ecosystem/.github/blob/main/images/Institution-NTU.png" width="250">](https://www.ntu.edu.sg) |
+| [CU-ICAR](https://cuicar.com) | [SRM-IST](https://www.srmist.edu.in) | [NTU](https://www.ntu.edu.sg) |
+|                    |                     |                     |
