@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fautodrive-ecosystem.github.io&count_bg=%23DA4848&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/>
   <img src="https://komarev.com/ghpvc/?username=AutoDRIVE-Ecosystem&label=Views&color=brightgreen">
-  <img src="https://img.shields.io/github/followers/AutoDRIVE-Ecosystem?label=Followers&color=blueviolet">
+  <img src="https://img.shields.io/github/followers/AutoDRIVE-Ecosystem?style=flat&label=Followers&color=blueviolet">
   <img src="https://badgen.net/github/stars/Tinker-Twins/AutoDRIVE?label=Stars&color=blue">
   <img src="https://badgen.net/github/forks/Tinker-Twins/AutoDRIVE?label=Forks&color=orange">
   <a href='https://github.com/MShawon/github-clone-count-badge'><img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=blue&label=Clones&query=count&url=https://gist.githubusercontent.com/Tinker-Twins/e2855ef0fa018279b206045be92424cb/raw/clone.json'></a>
