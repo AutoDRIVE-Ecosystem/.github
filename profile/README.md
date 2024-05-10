@@ -128,8 +128,6 @@ We encourage you to take a look at the following presentations to gain a better 
 | [MECC 2023 Video Presentation](https://youtu.be/0yS1-RpqhcE) | [IROS 2023 Presentation](https://youtu.be/8jyCJUOaLaI) |
 |                    |                     |
 
-
-
 ### Publications
 
 We encourage you to read and cite the relevant papers if you use any part of this project for your research:
