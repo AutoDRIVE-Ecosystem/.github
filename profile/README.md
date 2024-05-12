@@ -222,7 +222,7 @@ archivePrefix = {arXiv},
 primaryClass = {cs.RO}
 }
 ```
-This work has been accepted at **IEEE/ASME Transactions on Mechatronics** and additionally accepted to be presented at **2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).**
+This work has been accepted in **IEEE/ASME Transactions on Mechatronics (TMECH)** and additionally accepted to be presented at **2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).**
 
 #### [Towards Validation of Autonomous Vehicles Across Scales using an Integrated Digital Twin Framework](https://arxiv.org/abs/2402.12670)
 ```bibtex
