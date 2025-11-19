@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AutoDRIVE-Ecosystem&label=Views&color=brightgreen">
   <img src="https://img.shields.io/github/followers/AutoDRIVE-Ecosystem?style=flat&label=Followers&color=blueviolet">
-  <img src="https://badgen.net/github/stars/Tinker-Twins/AutoDRIVE?label=Stars&color=blue">
-  <img src="https://badgen.net/github/forks/Tinker-Twins/AutoDRIVE?label=Forks&color=orange">
-  <img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=blue&label=Clones&query=count&url=https://gist.githubusercontent.com/Tinker-Twins/e2855ef0fa018279b206045be92424cb/raw/clone.json'>
+  <img src="https://img.shields.io/github/stars/Tinker-Twins/AutoDRIVE?style=flat&label=Stars&color=blue">
+  <img src="https://img.shields.io/github/forks/Tinker-Twins/AutoDRIVE?style=flat&label=Forks&color=orange">
+  <img src='https://img.shields.io/badge/dynamic/json?color=red&label=Clones&query=count&url=https://gist.githubusercontent.com/Tinker-Twins/e2855ef0fa018279b206045be92424cb/raw/clone.json'>
   <img src="https://img.shields.io/github/downloads/Tinker-Twins/AutoDRIVE/total?color=yellow&label=Downloads">
   <!---img src="https://img.shields.io/github/stars/AutoDRIVE-Ecosystem?label=Stars&color=blue"-->
 </p>
