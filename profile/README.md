@@ -40,6 +40,8 @@ AutoDRIVE is envisioned to be an open, comprehensive, flexible and integrated ec
 
 [![](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/twitter-x.svg)](https://x.com/autodrive_ai) Follow us on [X](https://x.com/autodrive_ai)
 
+[![](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/facebook.svg)](https://www.facebook.com/autodriveecosystem) Follow us on [Facebook](https://www.facebook.com/autodriveecosystem)
+
 [![](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg)](https://www.instagram.com/autodrive_ai) Follow us on [Instagram](https://www.instagram.com/autodrive_ai)
 
 ## Team
